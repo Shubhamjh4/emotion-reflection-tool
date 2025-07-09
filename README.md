@@ -127,7 +127,7 @@ emotion-reflection-tool/
 ### Home Page UI:
 
 
-![Home Page](./assets/screenshot.png)
+![Home Page](./UI.png)
 
 
 
