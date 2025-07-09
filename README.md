@@ -92,9 +92,6 @@ flask-cors
 }
 Response Example:
 
-json
-Copy
-Edit
 {
   "emotion": "Anxious",
   "confidence": 0.85
@@ -127,15 +124,12 @@ emotion-reflection-tool/
 ---
 
 
-<!-- ### Home Page UI:
+### Home Page UI:
 
 
 ![Home Page](./assets/screenshot.png)
- -->
 
 
-
-<!-- --- -->
 
 ## 🙌 Credits
 
