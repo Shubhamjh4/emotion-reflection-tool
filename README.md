@@ -98,6 +98,7 @@ Response Example:
 }
 
 ```
+---
 ## 📁 Folder Structure
 
 ```
@@ -113,6 +114,7 @@ emotion-reflection-tool/
 │ └── requirements.txt
 └── README.md
 ```
+---
 ## 🖼️ Features
 
 - Emotion-specific image (e.g., happy, sad, anxious)
@@ -129,7 +131,7 @@ emotion-reflection-tool/
 
 ![Home Page](./UI.png)
 
-
+---
 
 ## 🙌 Credits
 
